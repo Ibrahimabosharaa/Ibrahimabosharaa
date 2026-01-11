@@ -5,17 +5,7 @@
 <a href="https://www.linkedin.com/in/ibrahim-abosharaa-b75a48285/" target="_blank">
   <img align="left" alt="LinkedIn" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg"/>
 </a>
-<a href="#" target="_blank">
-  <img align="left" alt="GitHub" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg"/>
-</a>
-<a href="#" target="_blank">
-  <img align="left" alt="Twitter" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/twitter.svg"/>
-</a>
-<a href="#" target="_blank">
-  <img align="left" alt="Instagram" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/instagram.svg"/>
-</a>
-<a href="mailto:your-email@gmail.com" target="_blank">
-  <img align="left" alt="Email" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/gmail.svg"/>
+
 </a>
 
 <br />
