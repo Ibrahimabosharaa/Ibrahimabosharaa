@@ -1,10 +1,22 @@
+
 ## Hey 👋, I'm Ibrahim ElSayed!
 ### Flutter Developer 📱
 
-<a href="www.linkedin.com/in/ibrahim-abosharaa-b75a48285/" target="_blank">
-  <img align="left" alt="LinkedIn" height="18px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg"/>
+<a href="https://www.linkedin.com/in/ibrahim-abosharaa-b75a48285/" target="_blank">
+  <img align="left" alt="LinkedIn" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg"/>
 </a>
-
+<a href="#" target="_blank">
+  <img align="left" alt="GitHub" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg"/>
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="Twitter" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/twitter.svg"/>
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="Instagram" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/instagram.svg"/>
+</a>
+<a href="mailto:your-email@gmail.com" target="_blank">
+  <img align="left" alt="Email" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/gmail.svg"/>
+</a>
 
 <br />
 <br />
@@ -18,30 +30,46 @@ I enjoy turning ideas into real apps using modern UI/UX and solid architecture.
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Flutter Mobile Apps**
-- 🌱 &nbsp; I’m currently learning **Advanced Flutter & Clean Architecture**
+- 🔭 &nbsp; I’m currently working on **Flutter Mobile Applications**
+- 🌱 &nbsp; I’m currently improving **Flutter, Clean Architecture & Firebase**
 - 👨‍💻 &nbsp; All of my projects are available on **GitHub**
 - 💬 &nbsp; Ask me about **Flutter, Dart, Firebase**
-- 📫 &nbsp; How to reach me: **LinkedIn**
-- 🚀 &nbsp; I love building real-world apps and improving performance
-- 🎯 &nbsp; Focused on writing clean, maintainable code
+- 📫 &nbsp; Reach me via **LinkedIn or Email**
+- 🚀 &nbsp; Passionate about building real-world apps
+- 🎯 &nbsp; Focused on clean, maintainable code
 
 ---
 
 ### 🔨 Languages and Tools:
 
+#### 📱 Mobile Development
 <a href="https://flutter.dev" target="_blank">
   <img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"/>
 </a>
 <a href="https://dart.dev" target="_blank">
   <img align="left" alt="Dart" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"/>
 </a>
+
+#### 🌐 Web Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
+</a>
+
+#### ☕ Programming & Backend
+<a href="https://www.java.com" target="_blank">
+  <img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/>
+</a>
 <a href="https://firebase.google.com/" target="_blank">
   <img align="left" alt="Firebase" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"/>
 </a>
-<a href="https://developer.android.com" target="_blank">
-  <img align="left" alt="Android" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"/>
-</a>
+
+#### 🛠 Tools
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"/>
 </a>
@@ -65,8 +93,8 @@ I enjoy turning ideas into real apps using modern UI/UX and solid architecture.
 ### 🛠️ My Flutter Projects
 
 - 📱 **E-Commerce App (Flutter + Firebase)**
-- 🗺️ **Location Based App**
 - 💬 **Chat App using Firebase**
+- 🗺️ **Location Based App**
 - 📊 **Admin Dashboard App**
 - 🧾 **REST API Integrated Apps**
 
