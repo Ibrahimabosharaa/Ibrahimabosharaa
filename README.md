@@ -30,34 +30,47 @@ I enjoy turning ideas into real apps using modern UI/UX and solid architecture.
 
 ---
 
-### 🔨 Languages and Tools:
+### 🔨 Languages & Tools
 
 #### 📱 Mobile Development
 <a href="https://flutter.dev" target="_blank">
-  <img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="40"/>
 </a>
 <a href="https://dart.dev" target="_blank">
-  <img align="left" alt="Dart" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="40"/>
 </a>
 
-#### 🌐 Web Development
+<br/>
+
+#### 🔥 Backend & Services
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="40"/>
+</a>
+
+<br/>
+
+#### 🌐 Web Fundamentals
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40"/>
 </a>
 
-#### ☕ Programming & Backend
+<br/>
+
+#### ☕ Programming Languages
 <a href="https://www.java.com" target="_blank">
-  <img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="40"/>
 </a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img align="left" alt="Firebase" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"/>
-</a>
+
+<br/>
+
+
+
 
 #### 🛠 Tools
 <a href="https://git-scm.com/" target="_blank">
