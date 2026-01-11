@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Ibrahim ElSayed!
 ### Flutter Developer 📱
 
-<a href="www.linkedin.com/in/ibrahim-abosharaa-b75a48285" target="_blank">
+<a href="www.linkedin.com/in/ibrahim-abosharaa-b75a48285/" target="_blank">
   <img align="left" alt="LinkedIn" height="18px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg"/>
 </a>
 
